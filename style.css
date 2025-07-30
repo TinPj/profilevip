@@ -15,6 +15,7 @@
 html{
     font-size: 70%;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 body{
     background: var(--bg-color);
